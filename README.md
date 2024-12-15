@@ -1,5 +1,5 @@
 # Official-Lab-4-Affordable-Housing-Dashboard.
-Overview This lab focuses on analyzing the link between social vulnerability and affordable housing using geographic and demographic data. You'll combine the SVI and Affordable Housing datasets in Tableau to create interactive maps and charts that explore factors like housing costs, minority populations, and zoning. The goal is to build a dashboard that highlights areas with high vulnerability and housing needs, then share it via GitHub.
+Overview This lab focuses on analyzing the link between social vulnerability and affordable housing using geographic and demographic data. We combined the SVI and Affordable Housing datasets in Tableau to create interactive maps and charts that explore factors like housing costs, minority populations, and zoning. The goal was to build a dashboard that highlights areas with high vulnerability and housing needs.
 Files: 
 Affordable Housing Units Data
 Social Vulnerability Index (SVI) Data
